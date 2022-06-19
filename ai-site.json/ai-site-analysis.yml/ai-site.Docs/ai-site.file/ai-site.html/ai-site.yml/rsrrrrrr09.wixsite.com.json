@@ -1,0 +1,13 @@
+{
+  "스캔 설정": {
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "실패",
+    "디스플레이 모드": "차이"
+  },
+  "문제 설정": {
+    "minSeverityLevel": "낮음",
+    "issueType": "종속성"
+  }
+} 
